@@ -1,5 +1,5 @@
 # exchange-rate-calculator
-A simple currency exchange rate calculator made using HTML, CSS and vanilla Javascript. 
+A simple currency exchange rate calculator made using HTML, CSS and vanilla Javascript. It gets the exchange rate from the exchangerate-api
 
 You can see the working version here:
 
